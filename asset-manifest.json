@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/note-taking-app/static/css/main.34fa7a53.chunk.css",
+    "main.js": "/note-taking-app/static/js/main.c1391953.chunk.js",
+    "main.js.map": "/note-taking-app/static/js/main.c1391953.chunk.js.map",
+    "runtime-main.js": "/note-taking-app/static/js/runtime-main.41d7972f.js",
+    "runtime-main.js.map": "/note-taking-app/static/js/runtime-main.41d7972f.js.map",
+    "static/js/2.d4cdcdb7.chunk.js": "/note-taking-app/static/js/2.d4cdcdb7.chunk.js",
+    "static/js/2.d4cdcdb7.chunk.js.map": "/note-taking-app/static/js/2.d4cdcdb7.chunk.js.map",
+    "static/js/3.6c3227d6.chunk.js": "/note-taking-app/static/js/3.6c3227d6.chunk.js",
+    "static/js/3.6c3227d6.chunk.js.map": "/note-taking-app/static/js/3.6c3227d6.chunk.js.map",
+    "index.html": "/note-taking-app/index.html",
+    "static/css/main.34fa7a53.chunk.css.map": "/note-taking-app/static/css/main.34fa7a53.chunk.css.map",
+    "static/js/2.d4cdcdb7.chunk.js.LICENSE.txt": "/note-taking-app/static/js/2.d4cdcdb7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/note-taking-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41d7972f.js",
+    "static/js/2.d4cdcdb7.chunk.js",
+    "static/css/main.34fa7a53.chunk.css",
+    "static/js/main.c1391953.chunk.js"
+  ]
+}
