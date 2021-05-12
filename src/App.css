@@ -1,38 +1,57 @@
-.App {
+select{
+  margin-left: 25ex;
+}
+ 
+.error{
+  margin-left: 22ex;
+  
+}
+.header{
   text-align: center;
+  font-family:cursive;
+  font-weight: 600;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#temp{
+  display:block
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body{
+  background-color: #e28f83 ;
+  
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+header{
+  background-color: #f5ba13;
+  box-shadow: 0 0 10px 0   ;
+  padding: 10px ; 
 }
-
-.App-link {
-  color: #61dafb;
+.note{
+  background: #fff;
+  border-radius: 7px;
+  width:240px;
+  margin: 50px;
+  padding: 10px;
+  box-shadow: 0 0 15px;
+  float: left;
 }
+.note1{
+  background: #fff;
+  border-radius: 7px;
+  width:240px;
+  margin: 50px;
+  padding: 10px;
+  box-shadow: 0 0 15px;
+  float: left;
+}
+.input{
+  margin:50px 40em ;
+  background: #fff;
+  border-radius: 7px;
+  width:280px;
+  height:260px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  padding: 10px;
+  box-shadow: 0 0 15px;
+  float: left;
+}
+.textField{
+
 }
